@@ -28,14 +28,14 @@
 
 		"editorWarning.foreground": "#DCBC63",
 		"editorError.foreground": "#E85D4A",
-        "editorCursor.foreground": "#FFF2CF",
+        "editorCursor.foreground": "#E2A6B6",
 		"editor.lineHighlightBackground": "#4D2D1160",
 		"editorLineNumber.foreground": "#FFF2CF",
 		"editorLineNumber.activeForeground": "#FFF2CF",
 		"editorWidget.foreground": "#d6caa3",
-		"editorWidget.background": "#0F0700",
+		"editorWidget.background": "#0F0700C9",
 		"editorWidget.resizeBorder": "#94949442",
-		"errorForeground": "#E85D4A",
+		"errorForeground":"#E85D4A",
 
 		"keybindingLabel.foreground": "#FFF2CF",
 		"keybindingLabel.background": "#0F0700",
@@ -119,16 +119,16 @@
 		"gitDecoration.conflictingResourceForeground": "#E85D4A",
 	
 		// icon sidebar
-		"activityBar.background": "#4d2d11",
+		"activityBar.background": "#2B1608",
 		"activityBar.foreground": "#EFC9A0",
 		"activityBar.inactiveForeground": "#949494",
-		"activityBarBadge.background": "#E2A6B6",
+		"activityBarBadge.background": "#EFC9A0",
 		"activityBar.activeBorder": "#EFC9A0",
 		"activityBar.dropBorder": "#664518",
 		"activityBarBadge.foreground": "#2B1608",
 	
 		// project listing bar
-		"sideBar.border": "#6e4f08",
+		"sideBar.border":"#6e4f08",
 		"sideBar.background": "#0F0700",
 		"sideBar.foreground": "#D9B98A",
 		"sideBarSectionHeader.border": "#664518",
@@ -189,23 +189,23 @@
 		"terminal.ansiBrightWhite": "#FFF2CF",
 	
 		// editor's top bar
-		"titleBar.activeBackground": "#DD879E",
-		"titleBar.activeForeground": "#2B1608",
-		"titleBar.inactiveBackground": "#DD879E",
-		"titleBar.inactiveForeground": "#5C3A20",
+		"titleBar.activeBackground": "#2B1608",
+		"titleBar.activeForeground": "#FFF2CF",
+		"titleBar.inactiveBackground": "#2B1608",
+		"titleBar.inactiveForeground": "#FFF2CF",
 	
-		// editor's breadcrump
+		// editor's breadcrumb
 		"breadcrumb.foreground": "#FFF2CF",
 		"breadcrumbPicker.background": "#0F0700",
 		"breadcrumb.focusForeground": "#FFF2CF",
 		"breadcrumb.activeSelectionForeground": "#FFF2CF",
-		"breadcrumb.background": "#0F0700",
+		"breadcrumb.background": "#4d2d10",
 	
 		// coding peekview
 		"peekViewEditor.matchHighlightBorder": "#949494",
-		"peekViewEditor.matchHighlightBackground": "#DD879E",
+		"peekViewEditor.matchHighlightBackground": "#2B1608",
 		"peekViewResult.background": "#0F0700",
-		"peekViewResult.matchHighlightBackground": "#DD879E",
+		"peekViewResult.matchHighlightBackground": "#2B1608",
 
 		
 		"charts.lines": "#E2A6B6",
@@ -364,7 +364,7 @@
 					  "meta.body.function.definition.cpp"
 		],
 			"settings": {
-				"foreground": "#FFF2CF"
+				"foreground": "#5C3A20"
 			}
 		},
 		{
