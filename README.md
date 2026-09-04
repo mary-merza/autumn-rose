@@ -6,8 +6,8 @@ This theme uses shades of pink, brown and beige🧸ྀ
 
 
 ### Preview
-![Screenshot of Theme](Images/preview1.jpg)
-![Screenshot of Theme](Images/preview.jpg)
+![Screenshot of Theme](images/preview1.jpg)
+![Screenshot of Theme](images/preview.jpg)
 
 
 ### Issues
