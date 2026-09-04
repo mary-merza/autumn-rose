@@ -32,7 +32,7 @@
 		"editor.lineHighlightBackground": "#4D2D1160",
 		"editorLineNumber.foreground": "#FFF2CF",
 		"editorLineNumber.activeForeground": "#FFF2CF",
-		"editorWidget.foreground": "#4d2d10",
+		"editorWidget.foreground": "#d6caa3",
 		"editorWidget.background": "#0F0700",
 		"editorWidget.resizeBorder": "#94949442",
 		"errorForeground": "#E85D4A",
