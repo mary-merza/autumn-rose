@@ -1,0 +1,51 @@
+{
+  "name": "autumn-rose",
+  "displayName": "autumn rose",
+  "publisher": "marymerza",
+  "description": "A warm, cozy, pretty autumn inspired VS code theme reminiscent of white lace, brown leather, pumpkin spice lattes, plaid skirts, and legwarmers",
+  "version": "0.4.2",
+  "icon": "Images/Icon1.png",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "auth": {
+    "name": "Marymerza",
+    "url": "https://github.com/mary-merza"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mary-merza/autumn-rose"
+  },
+  "bugs": {
+    "url": "https://github.com/mary-merza/autumn-rose/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "color",
+    "theme",
+    "color-theme",
+    "dark",
+    "night",
+    "pink",
+    "cute",
+    "brown",
+    "beige",
+    "pumpkin",
+    "autumn",
+    "rose",
+    "cozy",
+    "fall",
+    "flower"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Autumn Rose",
+        "uiTheme": "vs",
+        "path": "./themes/Autumn Rose-color-theme.json"
+      }
+    ]
+  }
+}
