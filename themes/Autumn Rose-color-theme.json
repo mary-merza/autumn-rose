@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#0F0700",
-		"editor.foreground": "#B98800",
+		"editor.foreground": "#E2A6B6",
 		"foreground": "#FFF2CF",
 		"menu.background": "#0F0700",
 
@@ -120,7 +120,7 @@
 		"gitDecoration.conflictingResourceForeground": "#E85D4A",
 	
 		// icon sidebar
-		"activityBar.background": "#2B1608",
+		"activityBar.background": "#180b02",
 		"activityBar.foreground": "#EFC9A0",
 		"activityBar.inactiveForeground": "#949494",
 		"activityBarBadge.background": "#EFC9A0",
@@ -190,9 +190,9 @@
 		"terminal.ansiBrightWhite": "#FFF2CF",
 	
 		// editor's top bar
-		"titleBar.activeBackground": "#2B1608",
+		"titleBar.activeBackground": "#180b02",
 		"titleBar.activeForeground": "#FFF2CF",
-		"titleBar.inactiveBackground": "#2B1608",
+		"titleBar.inactiveBackground": "#180b02",
 		"titleBar.inactiveForeground": "#FFF2CF",
 	
 		// editor's breadcrumb
@@ -200,13 +200,13 @@
 		"breadcrumbPicker.background": "#0F0700",
 		"breadcrumb.focusForeground": "#FFF2CF",
 		"breadcrumb.activeSelectionForeground": "#FFF2CF",
-		"breadcrumb.background": "#4d2d10",
+		"breadcrumb.background": "#2e190a",
 	
 		// coding peekview
 		"peekViewEditor.matchHighlightBorder": "#949494",
-		"peekViewEditor.matchHighlightBackground": "#2B1608",
+		"peekViewEditor.matchHighlightBackground": "#180b02",
 		"peekViewResult.background": "#0F0700",
-		"peekViewResult.matchHighlightBackground": "#2B1608",
+		"peekViewResult.matchHighlightBackground": "#180b02",
 
 		
 		"charts.lines": "#E2A6B6",
