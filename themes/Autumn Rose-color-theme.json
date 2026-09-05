@@ -135,11 +135,11 @@
 		"sideBarSectionHeader.background": "#0F0700",
 	
 		// editor's bottom bar
-		"statusBar.background": "#DD879E",
+		"statusBar.background": "#E2A6B6",
 		"statusBar.foreground": "#2B1608",
 		"statusBar.noFolderBackground": "#0F0700",
-		"statusBar.debuggingBackground": "#DD879E",
-		"statusBarItem.activeBackground": "#DD879E",
+		"statusBar.debuggingBackground": "#E2A6B6",
+		"statusBarItem.activeBackground": "#E2A6B6",
 		"statusBarItem.remoteBackground": "#0F0700",
 		"statusBarItem.errorBackground": "#E85D4A",
 
