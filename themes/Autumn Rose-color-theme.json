@@ -1,10 +1,11 @@
 {
-	"name": "Autumn Rose (readable)",
+	"name": "Autumn Rose",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#0F0700",
 		"editor.foreground": "#B98800",
 		"foreground": "#FFF2CF",
+		"menu.background": "#0F0700",
 
         "list.activeSelectionIconForeground": "#FFF2CF",
 		"editorBracketHighlight.foreground1": "#FFF2CF",
