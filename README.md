@@ -8,7 +8,6 @@ This theme uses shades of pink, brown and beige ༄˖°.🍂.ೃ࿔*:･
 
 
 ### Preview
-![Screenshot of Theme](images/preview1.jpg)
 ![Screenshot of Theme](images/preview.jpg)
 
 
