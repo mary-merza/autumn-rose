@@ -1,9 +1,9 @@
 {
-  "name": "autumn-rose",
+  "name": "autumn rose",
   "displayName": "autumn rose",
   "publisher": "coffeewife",
   "description": "A warm, cozy, pretty autumn inspired VS code theme reminiscent of white lace, brown leather, pumpkin spice lattes, plaid skirts, and legwarmers",
-  "version": "0.4.2",
+  "version": "0.1.1",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.70.0"
